@@ -40,3 +40,17 @@ Welcome to my website at _benburton.org_!
     to discreetly track time while you give a talk;
   - [Inkpad Libre](https://github.com/baburton/inkpad/),
     which is the open-source continuation of Steve Sprang's excellent vector graphics app for the iPad.
+
+- **Social Media**:
+  I mainly use social media for social purposes (so, for instance,
+  you won't see much mathematics there).
+  
+  - [Instagram: burton.bab](https://www.instagram.com/burton.bab/):
+    Most of my social media activity is here.
+
+  - [Twitter: BurtonBA](https://twitter.com/burtonba):
+    I use twitter very, _very_ rarely, but this is my account.
+    
+  - Facebook:
+    I am largely avoiding Facebook completely these days;
+    you will find me there but please don't assume I'm paying any attention. :slightly_smiling_face:

@@ -4,8 +4,6 @@
 
 Welcome to my website at _benburton.org_!
 
-At the moment this is just a handful of links to real websites.
-
 - **Mathematics**:
   I am a half-mathematician, half-computer scientist at The University of Queensland (UQ),
   in Brisbane, Australia. For more on my mathematics, see:
@@ -28,7 +26,7 @@ At the moment this is just a handful of links to real websites.
     is really like. I have been involved as a tutor and lecturer for over two decades,
     and currently serve as Director of NMSS.
 
-- [**My iPhone/iPad/Watch apps**](https://sites.google.com/site/appsformaths/):
+- [**iPhone/iPad/Watch apps**](https://sites.google.com/site/appsformaths/):
   I write apps in my spare time; all of these are apps that I use myself.
   They include:
 

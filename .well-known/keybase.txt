@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/benjaminburton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://benburton.org
+  * I am benjaminburton (https://keybase.io/benjaminburton) on keybase.
+  * I have a public key ASC34Ycnk6CsZEYh_3uHqZvV4jUxaHcysk7JMbvmQ43Tiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b7e1872793a0ac644621ff7b87a99bd5e23531687732b24ec931bbe6438dd38b0a",
+      "host": "keybase.io",
+      "kid": "0120b7e1872793a0ac644621ff7b87a99bd5e23531687732b24ec931bbe6438dd38b0a",
+      "uid": "b7f06dc35af67c224f328429fdfa0119",
+      "username": "benjaminburton"
+    },
+    "merkle_root": {
+      "ctime": 1596948101,
+      "hash": "5118aedb07ee4b661c9a922edab476f8a73935da7b51d02090c381157abda402fe67b3d4d0928c4d59214b79f230545c4a92d13429c096c1b725d258d4be7ac1",
+      "hash_meta": "668545a220db8d7b5a16b13539e8c9c128b73a9043b84c350485ffe841040b83",
+      "seqno": 17229471
+    },
+    "service": {
+      "entropy": "f++EKyYVT8DaV3WDWMqW7QS1",
+      "hostname": "benburton.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596948216,
+  "expire_in": 504576000,
+  "prev": "55fa0848c1c4cac3bd6ae156bd79dd8837d16854717bd4a78745675c8c22e8ab",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgt+GHJ5OgrGRGIf97h6mb1eI1MWh3MrJOyTG75kON04sKp3BheWxvYWTESpcCGMQgVfoISMHEysO9auFWvXndiDfRaFRxe9Snh0VnXIwi6KvEILhjmHqEiyxAUg5vNc4bb68ZM9DLcaWpa+esuaOsYxz7AgHCo3NpZ8RAmfX/YeVI0V72peVq0jbc1SD0k/MHE4TrTdltJVGxe9AbeTs8IL2207lXaSrrc5Nc+WPQbJIpoVFiB1+rpGPiAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG4j3USK+hLAXoR8T++pKYdhsdkmZAqyv0O5elNAuHPzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/benjaminburton
+
+==================================================================

@@ -1,6 +1,8 @@
 ## Benjamin Burton
 
-Welcome to my website at benburton.org!
+<img src="bab.jpg" width=120 height=120 alt="Head shot">
+
+Welcome to my website at _benburton.org_!
 
 At the moment this is just a handful of links to real websites.
 

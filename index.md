@@ -45,10 +45,10 @@ Welcome to my website at _benburton.org_!
   I mainly use social media for social purposes (so, for instance,
   you won't see much mathematics there).
   
-  - [Instagram: burton.bab](https://www.instagram.com/burton.bab/):
+  - [Instagram (@burton.bab)](https://www.instagram.com/burton.bab/):
     Most of my social media activity is here.
 
-  - [Twitter: BurtonBA](https://twitter.com/burtonba):
+  - [Twitter (@BurtonBA)](https://twitter.com/burtonba):
     I use twitter very, _very_ rarely, but this is my account.
     
   - Facebook:

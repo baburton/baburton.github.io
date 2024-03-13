@@ -1,56 +1,60 @@
-## Benjamin Burton
+## Benjamin Burton<br>Software Development and Research Consulting
 
 <img src="bab.jpg" width=120 height=120 alt="Head shot">
 
-Welcome to my website at _benburton.org_!
+I am a half-mathematician, half-computer scientist based in Brisbane, Australia.
+I have worked in computational geometry, information security,
+financial mathematics, and gifted-and-talented education.
 
-- **Mathematics**:
-  I am a half-mathematician, half-computer scientist at The University of Queensland (UQ),
-  in Brisbane, Australia. For more on my mathematics, see:
-  
-  - [My university website](http://www.maths.uq.edu.au/~bab) at UQ;
-  - [Regina](https://regina-normal.github.io/), a large body of software for
-    computational topology that I have been working on for over 20 years now.
-  
-- **Outreach programmes**:
-  I spend a lot of time with outreach programmes for talented secondary school students
-  in mathematics and computer science. These include:
-  
-  - [The International Olympiad in Informatics (IOI)](http://www.ioinformatics.org/),
-    which is the premier competition for programing and algorithm design for secondary school students.
-    I spent 10 years as a leader of the Australian delegation,
-    and I am currently an elected member of the International Committee that oversees the IOI.
-    We also hosted [IOI 2013 in Brisbane, Australia](http://www.ioi2013.org/)!
-  - [The National Mathematics Summer School (NMSS)](https://nmss.edu.au/), which gives
-    talented and enthusiastic secondary students a taste of research, and what _doing_ mathematics
-    is really like. I have been involved as a tutor and lecturer for over two decades,
-    and currently serve as Director of NMSS.
+I do software development and research consulting as a sole trader
+(ABN: 52987060341). For further details, you can
+[contact me at bab@benburton.org](mailto:bab@benburton.org).
 
-- [**iPhone/iPad/Watch apps**](https://sites.google.com/site/appsformaths/):
-  I write apps in my spare time; all of these are apps that I use myself.
-  They include:
+Some of the projects I am currently involved in:
 
+- **International Olympiad in Informatics**
+
+  I am currently serving as President of the
+  [The International Olympiad in Informatics (IOI)](http://www.ioinformatics.org/),
+  the premier competition for programing and algorithm design for secondary school students.
+  I spent 10 years as a delegation leader and coach of the Australian team,
+  and since 2008 I have been working behind the scenes with the different committees that
+  oversee the IOI.
+
+  IOI 2024 will be in [Alexandria, Egypt](https://www.ioi2024.eg) this September,
+  and in 2013 we hosted [IOI 2013 in Brisbane, Australia](http://www.ioi2013.org/)!
+
+- **National Mathematics Summer School**
+
+  [The National Mathematics Summer School (NMSS)](https://nmss.edu.au/) gives
+  talented and enthusiastic secondary students a taste of research, and a feel for
+  what _doing_ mathematics is really like. I was involved as a tutor and lecturer
+  for ~25 years, and served as Director of NMSS between 2018--2020.
+
+- **Software Development**
+
+  I have a number of iPhone, iPad and Apple Watch apps, including:
+  - [References](https://sites.google.com/site/appsformaths/references/),
+    to browse through your BibTeX databases;
   - [Modular Arithmetic](https://sites.google.com/site/appsformaths/modular-arithmetic/),
     to do arithmetic modulo _N_;
   - [PDF Projector](https://sites.google.com/site/appsformaths/pdf-projector/),
     to project your PDF slideshows onto an external screen;
-  - [References](https://sites.google.com/site/appsformaths/references/),
-    to browse through your BibTeX databases;
   - [Talk Timer](https://sites.google.com/site/appsformaths/talk-timer/),
     to discreetly track time while you give a talk;
   - [Inkpad Libre](https://github.com/baburton/inkpad/),
     which is the open-source continuation of Steve Sprang's excellent vector graphics app for the iPad.
 
-- **Social Media**:
-  I mainly use social media for social purposes (so, for instance,
-  you won't see much mathematics there).
-  
-  - [Instagram (@burton.bab)](https://www.instagram.com/burton.bab/):
-    Most of my social media activity is here.
+- **Research Consulting**
 
-  - [Twitter (@BurtonBA)](https://twitter.com/burtonba):
-    I use twitter very, _very_ rarely, but this is my account.
-    
-  - Facebook:
-    I am largely avoiding Facebook completely these days;
-    you will find me there but please don't assume I'm paying any attention. :slightly_smiling_face:
+  I help various organisations with scientific research consulting.
+  If you are interested in talking further about this, please
+  [contact me at bab@benburton.org](mailto:bab@benburton.org).
+
+I also work as a mathematician at The University of Queensland.
+For more on my academic work, see:
+
+  - [My university website](http://www.maths.uq.edu.au/~bab) at UQ;
+  - [Regina](https://regina-normal.github.io/), a large body of software for
+    computational topology that I have been working on for over 20 years now.
+  

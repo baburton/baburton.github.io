@@ -18,8 +18,8 @@ attachments. In particular:
   contain markup or mathematics (and if your LaTeX is simple enough) then the
   app can display them nicely.
 
-- If you used BibDesk to create your library, the app can view your file
-  attachments (e.g., PDFs that you have attached to your references).
+- If you used BibDesk or JabRef to create your library, the app can view your
+  file attachments (e.g., PDFs that you have attached to your references).
 
 For more details, screenshots and examples, see the
 [App Store](https://apps.apple.com/us/app/references/id1481843213&sa=D).
@@ -30,8 +30,9 @@ For support or suggestions, contact the author at bab at benburton.org.
 
 Benjamin Burton.  By day I do research in computational geometry and topology
 at The University of Queensland (see
-[my university site](http://www.maths.uq.edu.au/~bab/)), and a lot of my work
-involves writing mathematical software.  I do iOS programming in my spare time.
+[my university site](http://www.maths.uq.edu.au/~bab/)),
+and a lot of my work involves writing mathematical software.  I do iOS
+programming in my spare time.
 
 **Why this app?**
 
@@ -48,6 +49,12 @@ with the details.
 
 **Privacy Policy**
 
-This app does not collect any data.
+In short: References does the right thing by you as far as possible. It only
+accesses the files and folders that you have asked it to, and you can easily
+revoke this access at any time. It does not send any information to the
+developer or other third parties, except for activities that are beyond its
+control.
+
+In detail: [privacy.md](read the full privacy policy here).
 
 Enjoy!

@@ -1,4 +1,4 @@
-## Benjamin Burton<br>Software Development and Research Consulting
+## Benjamin Burton<br>Mathematician and Software Developer
 
 <img src="bab.jpg" width=120 height=120 alt="Head shot">
 
@@ -34,8 +34,7 @@ Some of the projects I am currently involved in:
 - **Software Development**
 
   I have a number of iPhone, iPad and Apple Watch apps, including:
-  - [References](https://sites.google.com/site/appsformaths/references/),
-    to browse through your BibTeX databases;
+  - [References](references/), to browse through your BibTeX databases;
   - [Modular Arithmetic](https://sites.google.com/site/appsformaths/modular-arithmetic/),
     to do arithmetic modulo _N_;
   - [PDF Projector](https://sites.google.com/site/appsformaths/pdf-projector/),
@@ -54,7 +53,7 @@ Some of the projects I am currently involved in:
 I also work as a mathematician at The University of Queensland.
 For more on my academic work, see:
 
-  - [My university website](http://www.maths.uq.edu.au/~bab) at UQ;
+  - [My main university website](http://www.maths.uq.edu.au/~bab) at UQ;
   - [Regina](https://regina-normal.github.io/), a large body of software for
     computational topology that I have been working on for over 20 years now.
   

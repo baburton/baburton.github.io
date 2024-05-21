@@ -1,4 +1,4 @@
-### Smart and Dynamic Groups
+### References: Smart and Dynamic Groups
 
 References now allows you to browse through **BibDesk smart groups** and
 **JabRef dynamic groups**. These groups bring together references in your

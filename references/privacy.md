@@ -1,4 +1,4 @@
-## Privacy Policy
+## References: Privacy Policy
 
 This is intended as a simple summary of how the References app accesses and
 uses your data. It is not intended as a legal document.

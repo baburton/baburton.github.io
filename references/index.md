@@ -55,6 +55,6 @@ revoke this access at any time. It does not send any information to the
 developer or other third parties, except for activities that are beyond its
 control.
 
-In detail: [privacy.md](read the full privacy policy here).
+In detail: [read the full privacy policy here](privacy.md).
 
 Enjoy!

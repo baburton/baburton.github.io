@@ -40,8 +40,8 @@ Some of the projects I am currently involved in:
   I have a number of iPhone, iPad and Apple Watch apps, including:
   - [References](references/), to browse through your BibTeX databases;
   - [Modular Arithmetic](modular-arithmetic/), to do arithmetic modulo _N_;
-  - [PDF Projector](https://sites.google.com/site/appsformaths/pdf-projector/),
-    to project your PDF slideshows onto an external screen;
+  - [PDF Projector](pdf-projector/), to project your PDF slideshows onto an
+    external screen;
   - [Inkpad Libre](https://github.com/baburton/inkpad/),
     which is the open-source continuation of Steve Sprang's excellent vector graphics app for the iPad.
 

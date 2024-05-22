@@ -18,7 +18,7 @@ For support or suggestions, contact the author at bab at benburton.org.
 
 Benjamin Burton.  By day I do research in computational geometry and topology
 at The University of Queensland
-(see [my university site](http://www.maths.uq.edu.au/~bab),
+(see [my university site](http://www.maths.uq.edu.au/~bab)),
 and a lot of my work involves writing mathematical software.
 I do iOS programming in my spare time.
 

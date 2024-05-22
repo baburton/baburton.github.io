@@ -20,7 +20,7 @@ For support or suggestions, contact the author at bab at benburton.org.
 
 Benjamin Burton.  By day I do research in computational geometry and topology
 at The University of Queensland
-(see [my university site](http://www.maths.uq.edu.au/~bab),
+(see [my university site](http://www.maths.uq.edu.au/~bab)),
 and a lot of my work involves writing mathematical software.
 I do iOS programming in my spare time.
 
@@ -35,8 +35,8 @@ just an iPad or iPhone to lectures instead of my entire laptop.
 If you want to experiment with the app, you can download some example PDF
 presentations:
 
-- [ioi.pdf] (11 pages)
-- [polytopes.pdf] (22 pages)
+- [ioi.pdf](ioi.pdf) (11 pages)
+- [polytopes.pdf](polytopes.pdf) (22 pages)
 
 **Privacy policy**
 

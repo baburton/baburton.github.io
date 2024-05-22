@@ -22,7 +22,7 @@ attachments. In particular:
   file attachments (e.g., PDFs that you have attached to your references).
 
 For more details, screenshots and examples, see the
-[App Store](https://apps.apple.com/us/app/references/id1481843213&sa=D).
+[App Store](https://apps.apple.com/us/app/references/id1481843213).
 
 For support or suggestions, contact the author at bab at benburton.org.
 

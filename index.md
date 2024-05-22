@@ -33,14 +33,16 @@ Some of the projects I am currently involved in:
 
 - **Software Development**
 
+  My largest and oldest software project is _Regina_, an open-source
+  software package for low-dimensional topologists. You can find _Regina_ at
+  [regina-normal.github.io](http://regina-normal.github.io/).
+
   I have a number of iPhone, iPad and Apple Watch apps, including:
   - [References](references/), to browse through your BibTeX databases;
   - [Modular Arithmetic](https://sites.google.com/site/appsformaths/modular-arithmetic/),
     to do arithmetic modulo _N_;
   - [PDF Projector](https://sites.google.com/site/appsformaths/pdf-projector/),
     to project your PDF slideshows onto an external screen;
-  - [Talk Timer](https://sites.google.com/site/appsformaths/talk-timer/),
-    to discreetly track time while you give a talk;
   - [Inkpad Libre](https://github.com/baburton/inkpad/),
     which is the open-source continuation of Steve Sprang's excellent vector graphics app for the iPad.
 
@@ -51,9 +53,5 @@ Some of the projects I am currently involved in:
   [contact me at bab@benburton.org](mailto:bab@benburton.org).
 
 I also work as a mathematician at The University of Queensland.
-For more on my academic work, see:
-
-  - [My main university website](http://www.maths.uq.edu.au/~bab) at UQ;
-  - [Regina](https://regina-normal.github.io/), a large body of software for
-    computational topology that I have been working on for over 20 years now.
-  
+For more on my academic work, see
+[my main university website](http://www.maths.uq.edu.au/~bab) at UQ.

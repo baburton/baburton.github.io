@@ -1,6 +1,6 @@
 ## References
 
-<img src="references-120.png" width=120 height=120 alt="References App Icon">
+<img src="references-120.png" width=120 height=120 align="right" alt="References App Icon">
 
 Carry your BibTeX libraries with you on your iPad and iPhone!
 

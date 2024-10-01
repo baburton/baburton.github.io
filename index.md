@@ -14,14 +14,15 @@ Some of the projects I am currently involved in:
 
 - **International Olympiad in Informatics**
 
-  I am currently serving as President of the
+  I currently serve on the International Committee for the
   [The International Olympiad in Informatics (IOI)](http://www.ioinformatics.org/),
   the premier competition for programing and algorithm design for secondary school students.
   I spent 10 years as a delegation leader and coach of the Australian team,
   and since 2008 I have been working behind the scenes with the different committees that
   oversee the IOI.
+  I served as President of IOI from 2021–2024.
 
-  IOI 2024 will be in [Alexandria, Egypt](https://www.ioi2024.eg) this September,
+  IOI 2025 will be in [Bolivia](https://ioi2025.bo) next year,
   and in 2013 we hosted [IOI 2013 in Brisbane, Australia](http://www.ioi2013.org/)!
 
 - **National Mathematics Summer School**

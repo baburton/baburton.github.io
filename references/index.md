@@ -58,3 +58,5 @@ control.
 In detail: [read the full privacy policy here](privacy.md).
 
 Enjoy!
+
+<div align="right">©&nbsp;2024 Benjamin Burton – <a href="https://benburton.org/references/privacy.html">Privacy Policy</a></div>
